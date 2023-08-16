@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Huck White Towels", "size": "XS", "price": 46 },
+  { "id": 2, "name": "Taro Root", "size": "L", "price": 39 },
+  { "id": 3, "name": "Rice Pilaf, Dry,package", "size": "L", "price": 56 },
+  { "id": 4, "name": "Soho Lychee Liqueur", "size": "M", "price": 90 },
+  { "id": 5, "name": "Lemon Pepper", "size": "3XL", "price": 92 }
+]

@@ -1,7 +1,7 @@
-const isAutorized = () => {
+const isAuthorized = () => {
   return true;
 };
 
 module.exports = {
-  isAutorized,
+  isAuthorized,
 };
